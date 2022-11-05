@@ -1,4 +1,4 @@
-# Mask-Detection
+# Mask-Detection:
 
 
 ![image](https://user-images.githubusercontent.com/88517236/199560105-42c00750-bcfd-444a-8ac1-d27b81da87fd.png)

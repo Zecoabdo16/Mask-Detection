@@ -6,7 +6,7 @@
 
 This project consists of 2 stages:
 1st stage isFace Detection:
-Input: Dataset including faces with and without masks
+Input: Dataset including faces with and without masks.
 
 For each image in dataset do
 Convert them to RGB
